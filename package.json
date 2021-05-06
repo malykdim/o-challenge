@@ -1,0 +1,16 @@
+{
+  "name": "ottonova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "sass": "node-sass -w styles/scss/ -o styles/css/"
+  },
+  "keywords": [],
+  "author": "AK",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
